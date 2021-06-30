@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I am Pedro. I am a 👨‍💻 game developer who is passionate about new technologies like AI, Data Science and Big Data. I love creating little project to test my skills and I hope to help you with it.
+I am Pedro. I am a 👨‍💻 developer who is passionate about new technologies like AI, Data Science and Big Data. I love creating little project to test my skills and I hope to help you with it.
 
-- 🔭 I’m currently working on my gamedev portfolio
-- 🌱 I’m currently learning Data Science | Advanced Unity | Big Data | Business Intelligence
+- 🔭 I’m currently working on my data analyst/engineer portfolio
+- 🌱 I’m currently learning Data Science | Big Data | Business Intelligence
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: "The people who think they are crazy enough to change the world are the ones who do!" - Steve Jobs
 - 📫 How to reach me:
